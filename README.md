@@ -1,2 +1,1 @@
-# bookbot
-project challenge from boot.dev
+BookBot is my first project!
